@@ -1,5 +1,7 @@
 package javaTest;
 
 public class JavaTest {
-  111
+  public static void main(String args[]) {
+	  
+  }
 }

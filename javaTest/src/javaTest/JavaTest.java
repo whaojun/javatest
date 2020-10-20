@@ -6,7 +6,5 @@ public class JavaTest {
 	  System.err.println("ver2.2git");
 	  System.err.println("local com1");
 	  System.err.println("local com2");
-	  System.err.println("local com3");
-
   }
 }
